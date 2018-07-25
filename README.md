@@ -15,7 +15,7 @@ Roadmap:
 
 ---
 
-![Alt text](src/images/daily-react-049-tic-tac-toe-app?raw=true "App UI")
+![Alt text](src/images/daily-react-049-tic-tac-toe-app.png?raw=true "App UI")
 
 ---
 
